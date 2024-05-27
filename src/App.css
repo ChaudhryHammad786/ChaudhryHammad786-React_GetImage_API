@@ -1,0 +1,11 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh; /* Full viewport height */
+  overflow: hidden;
+}
+img {
+  width: 80%;
+  height: 80%;/* Ensures the image covers the entire container */
+}
